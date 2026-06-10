@@ -44,16 +44,17 @@ Os valores digitados são capturados pelos inputs e o resultado é exibido na te
 
 ## Soma
 
-![soma](soma.png)
+![Soma](imagens/soma.png)
 
 ## Subtração
 
-![subtracao](subtracao.png)
+![Subtração](imagens/subtracao.png)
 
 ## Multiplicação
 
-![multiplicacao](multiplicacao.png)
+![Multiplicação](imagens/multiplicacao.png)
 
 ## Divisão
 
-![divisao](divisao.png)
+![Divisão](imagens/divisao.png)
+
