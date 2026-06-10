@@ -42,19 +42,3 @@ Foram criadas funções para:
 
 Os valores digitados são capturados pelos inputs e o resultado é exibido na tela.
 
-## Soma
-
-![Soma](imagens/soma.png)
-
-## Subtração
-
-![Subtração](imagens/subtracao.png)
-
-## Multiplicação
-
-![Multiplicação](imagens/multiplicacao.png)
-
-## Divisão
-
-![Divisão](imagens/divisao.png)
-
