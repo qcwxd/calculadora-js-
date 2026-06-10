@@ -56,4 +56,4 @@ Os valores digitados são capturados pelos inputs e o resultado é exibido na te
 
 ## Divisão
 
-![Divisão](imagens/Divisao.png)
+![divisao](image.png)
